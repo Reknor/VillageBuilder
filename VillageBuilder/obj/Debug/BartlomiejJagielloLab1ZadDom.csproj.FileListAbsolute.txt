@@ -1,0 +1,10 @@
+C:\Users\barci\source\repos\BartlomiejJagielloLab1ZadDom\BartlomiejJagielloLab1ZadDom\bin\Debug\BartlomiejJagielloLab1ZadDom.exe.config
+C:\Users\barci\source\repos\BartlomiejJagielloLab1ZadDom\BartlomiejJagielloLab1ZadDom\bin\Debug\BartlomiejJagielloLab1ZadDom.exe
+C:\Users\barci\source\repos\BartlomiejJagielloLab1ZadDom\BartlomiejJagielloLab1ZadDom\bin\Debug\BartlomiejJagielloLab1ZadDom.pdb
+C:\Users\barci\source\repos\BartlomiejJagielloLab1ZadDom\BartlomiejJagielloLab1ZadDom\obj\Debug\BartlomiejJagielloLab1ZadDom.csprojAssemblyReference.cache
+C:\Users\barci\source\repos\BartlomiejJagielloLab1ZadDom\BartlomiejJagielloLab1ZadDom\obj\Debug\BartlomiejJagielloLab1ZadDom.FormMain.resources
+C:\Users\barci\source\repos\BartlomiejJagielloLab1ZadDom\BartlomiejJagielloLab1ZadDom\obj\Debug\BartlomiejJagielloLab1ZadDom.Properties.Resources.resources
+C:\Users\barci\source\repos\BartlomiejJagielloLab1ZadDom\BartlomiejJagielloLab1ZadDom\obj\Debug\BartlomiejJagielloLab1ZadDom.csproj.GenerateResource.cache
+C:\Users\barci\source\repos\BartlomiejJagielloLab1ZadDom\BartlomiejJagielloLab1ZadDom\obj\Debug\BartlomiejJagielloLab1ZadDom.csproj.CoreCompileInputs.cache
+C:\Users\barci\source\repos\BartlomiejJagielloLab1ZadDom\BartlomiejJagielloLab1ZadDom\obj\Debug\BartlomiejJagielloLab1ZadDom.exe
+C:\Users\barci\source\repos\BartlomiejJagielloLab1ZadDom\BartlomiejJagielloLab1ZadDom\obj\Debug\BartlomiejJagielloLab1ZadDom.pdb
